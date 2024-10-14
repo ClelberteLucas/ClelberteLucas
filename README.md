@@ -13,9 +13,9 @@ Procuro colaborar e aprender com desenvolvimento IA e desenvolvimento de Banco d
 Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu email para contato
 
 
-<div rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-  <i class="devicon-python-plain">
-<div/>
+<div>
+  <a href = "malito:contato@clelbertelucassoaresdossantos.tech"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> <a/>
+</div>
 
 
             
