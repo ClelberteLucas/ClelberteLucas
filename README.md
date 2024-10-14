@@ -14,7 +14,7 @@ Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu emai
 
 
 <div>
-  <a href = "https://www.youtube.com/watch?v=TsaLQAetPLU&t=917s"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href = "mailto:clelbertelucassoaresdossantos@clelbertelucas.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/clelberte-lucas-soares-dos-santos-2109a9280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
