@@ -14,7 +14,7 @@ Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu emai
 
 
 <div>
-  <a href = "malito:contato@clelbertelucassoaresdossantos.com"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> <a/>
+  <a href = "malito:semeone@clelbertelucassoaresdossantos.com"> <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white> <a/>
 </div>
 
 
