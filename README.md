@@ -10,7 +10,6 @@ Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu emai
 
 <div>
    <a rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
           
         
         
