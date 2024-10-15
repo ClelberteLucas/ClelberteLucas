@@ -10,7 +10,7 @@ Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu emai
 
 <div>
   <a href= "https://github.com/ClelberteLucas">
-  <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=ClelberteLucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=ClelberteLucas&show_icons=true&theme=dark&include_all_commits=true&count=true"/>
   <img height="180cm" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16&theme=dark"/>
    
         
