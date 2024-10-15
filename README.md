@@ -9,7 +9,7 @@ Procuro colaborar e aprender com desenvolvimento IA e desenvolvimento de Banco d
 Contate-me pelo email clelbertelucassoaresdossantos@gmail.com esse é o meu email para contato.
 
 <div>
-   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+   <a rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
           
         
